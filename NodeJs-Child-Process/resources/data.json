@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Erick Wendel",
+        "profession": "Node.js Instructor",
+        "email": "ei@dude.com",
+        "phone": "+447795001178",
+        "website": "cursos.erickwendel.com",
+        "location": "São Paulo, SP"
+    },
+    {
+        "name": "Xuxa da Silva",
+        "profession": "Node.js Exper",
+        "email": "xuxadasilva@dude.com",
+        "phone": "+447798921178",
+        "website": "xuxa.dasilva.com",
+        "location": "Los Angels, CA"
+    },
+    {
+        "name": "Chapolin Colorado",
+        "profession": "Node.js SuperHero",
+        "email": "chapolin@dude.com",
+        "phone": "+4477923554321",
+        "website": "chapolin.colorado.com",
+        "location": "Medellìn, MEX"
+    },
+    {
+        "name": "Walter White",
+        "profession": "Node.js Cooking",
+        "email": "walterwhite@dude.com",
+        "phone": "+447733441321",
+        "website": "walter.white.com",
+        "location": "Chicago, EUA"
+    }
+]
